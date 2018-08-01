@@ -1,0 +1,7 @@
+D:\Dot Net Projects\Socket Programming\Time_Client\Time_Client\bin\Debug\Time_Client.exe.config
+D:\Dot Net Projects\Socket Programming\Time_Client\Time_Client\bin\Debug\Time_Client.exe
+D:\Dot Net Projects\Socket Programming\Time_Client\Time_Client\bin\Debug\Time_Client.pdb
+D:\Dot Net Projects\Socket Programming\Time_Client\Time_Client\obj\Debug\Time_Client.csprojAssemblyReference.cache
+D:\Dot Net Projects\Socket Programming\Time_Client\Time_Client\obj\Debug\Time_Client.csproj.CoreCompileInputs.cache
+D:\Dot Net Projects\Socket Programming\Time_Client\Time_Client\obj\Debug\Time_Client.exe
+D:\Dot Net Projects\Socket Programming\Time_Client\Time_Client\obj\Debug\Time_Client.pdb
